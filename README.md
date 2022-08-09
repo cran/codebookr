@@ -2,7 +2,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <!-- For generating new README after build and check of new version: devtools::build_readme() -->
 
-# codebookr
+# codebookr <img style="padding: 15px;" align="left" src="man/figures/codebookr_hex/codebookr_hex.png" alt="codebookr hex logo" width="250" height="289">
 
 <!-- badges: start -->
 
@@ -21,7 +21,14 @@ extensively to create the codebook as a Word document.
 
 ## Installation
 
-You can install the development version of codebookr like so:
+You can install the released version of `codebookr` from
+[CRAN](https://CRAN.R-project.org) with:
+
+``` r
+install.packages("codebookr")
+```
+
+And the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
@@ -906,7 +913,7 @@ but not the data itself, we may not want the individual addresses to
 show in the summary statistics portion of the column attributes table as
 they do by default.
 
-![](man/figures/addresses.png)\]
+![](man/figures/addresses.png)
 
 Of course, we could just drop the address column from the data frame
 entirely, but it’s better to have the codebook acknowledge all of the
