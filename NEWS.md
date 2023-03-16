@@ -1,3 +1,9 @@
+# codebookr 0.1.6
+
+* Improve help documentation for `cb_add_col_attributes()` and `codebook()` (#6)
+
+* Fix failed CRAN package check (#40)
+
 # codebookr 0.1.5
 
 * Fix bug where percent column doesn't correctly round when column type is categorical few cats (#29).
