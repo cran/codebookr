@@ -1,6 +1,6 @@
 Package: codebookr
 Title: Create Codebooks from Data Frames
-Version: 0.1.7
+Version: 0.1.8
 Authors@R: person("Brad", "Cannell", email = "brad.cannell@gmail.com",
   role = c("aut", "cre", "cph"))
 Maintainer: Brad Cannell <brad.cannell@gmail.com>
@@ -17,7 +17,7 @@ Suggests: hms, knitr, rmarkdown, testthat
 Imports: haven (>= 2.5.0), flextable, dplyr, officer, purrr, rlang,
         stringr, tibble, tidyr
 NeedsCompilation: no
-Packaged: 2024-02-14 20:46:34 UTC; bradcannell
+Packaged: 2024-02-17 19:57:04 UTC; bradcannell
 Author: Brad Cannell [aut, cre, cph]
 Repository: CRAN
-Date/Publication: 2024-02-15 00:20:02 UTC
+Date/Publication: 2024-02-19 08:20:08 UTC

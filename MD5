@@ -1,7 +1,7 @@
-b888e2b51fb7dff409270a40b016123b *DESCRIPTION
+eda4d67ee0d95ae6a49591bad27814ef *DESCRIPTION
 f02362212da15bf658e068d0244648fc *LICENSE
 7ac7e3865bd0eb0ccc898df0b93d1d02 *NAMESPACE
-862e5b82743b93b2c478d6c762058e55 *NEWS.md
+169ccc588d4c850aba9b7ca2126c3e33 *NEWS.md
 20b61886a9c4934f6cbb9d39b57f2037 *R/cb_add_col_attributes.R
 b06c84752696fdc871f1e5a1785ad6b3 *R/cb_add_description.R
 6b36918f35250192312404749b99d166 *R/cb_add_section_header.R
@@ -16,7 +16,7 @@ cfa48d4c2064638cc8a4ffdaa2495036 *R/cb_get_col_attributes.R
 c4ea880759131a0d15d82658db1ff748 *R/cb_summary_stats_to_ft.R
 134ff8ce986b602f4cfbfc1b2e55c40e *R/cb_theme_col_attr.R
 ddaad7e7ca5cf12a7f18235254013871 *R/cb_theme_df_attributes.R
-005e41733abf7095a04913cc1421dbbf *R/codebook.R
+9043585cc4eab185f812bb945d4e0966 *R/codebook.R
 7cf66f127c601e5b1cca415878fa303d *R/data.R
 451042ea2e82557cece524433ce2b6c2 *README.md
 0d54181275253a7206f5ecc158cea144 *data/study.rda
@@ -46,4 +46,4 @@ bbc5e8e946943f437c0f5af7f8fa1f85 *tests/testthat/test-cb_summary_stats_few_cats.
 e0915213594ed6a51458244f9a7ad3e7 *tests/testthat/test-cb_summary_stats_many_cats.R
 267790007d1ad6a8d139129db3665225 *tests/testthat/test-cb_summary_stats_numeric.R
 f99ba53121655ed458df2131cf438b53 *tests/testthat/test-cb_summary_stats_time.R
-d6ae7e9537f6710938a2585b9f22e160 *tests/testthat/test-codebook.R
+a9cb8be1c06548776b8d3fa7e0c1637c *tests/testthat/test-codebook.R
